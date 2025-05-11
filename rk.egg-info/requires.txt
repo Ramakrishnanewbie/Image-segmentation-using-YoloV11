@@ -4,5 +4,3 @@ notebook
 gdown
 Flask
 ultralytics
-
--e .

@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: rk
+Version: 0.0.1
+Author: Rama
+Author-email: abcd@gmail.com
+License-File: LICENSE
+Requires-Dist: dill
+Requires-Dist: from-root
+Requires-Dist: notebook
+Requires-Dist: gdown
+Requires-Dist: Flask
+Requires-Dist: ultralytics
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
